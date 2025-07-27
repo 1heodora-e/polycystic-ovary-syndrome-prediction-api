@@ -111,7 +111,7 @@ The dataset shows a **32.72% prevalence** of PCOS cases (177 out of 537 patients
 - **Health Data Input:** Enter age, weight, height, and symptoms
 - **Risk Assessment:** Get instant PCOS risk prediction
 - **Health Tracking:** Monitor symptoms over time
-- **Educational Content:** Learn about PCOS symptoms and management
+
 
 ### Troubleshooting
 
