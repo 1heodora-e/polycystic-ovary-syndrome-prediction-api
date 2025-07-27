@@ -65,7 +65,7 @@ The dataset shows a **32.72% prevalence** of PCOS cases (177 out of 537 patients
 
 ## Demo Video
 
-**YouTube Demo Link:** [PCOS Prediction System Demo](https://youtube.com/watch?v=YOUR_VIDEO_ID)
+**YouTube Demo Link:** [PCOS Prediction System Demo](https://youtu.be/rBXzS6kocEo)
 
 
 
