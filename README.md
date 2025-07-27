@@ -4,6 +4,19 @@
 
 **My mission is to democratize PCOS screening through accessible machine learning tools.** Polycystic Ovary Syndrome (PCOS) affects 1 in 10 women worldwide, often going undiagnosed due to complex symptoms and limited healthcare access. This project develops a machine learning model that analyzes health indicators and lifestyle factors to predict PCOS risk, providing both a RESTful API for healthcare applications and a mobile app for personal health monitoring to make early detection more accessible and reduce diagnostic delays.
 
+## Dataset Description
+
+The PCOS dataset contains **537 records** with **44 features** including demographic information, clinical measurements, hormonal levels, and lifestyle factors. The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos) and includes comprehensive health indicators such as:
+
+- **Demographic Data:** Age, weight, height, BMI
+- **Clinical Measurements:** Blood pressure, pulse rate, Hb levels
+- **Hormonal Levels:** FSH, LH, TSH, AMH, PRL, Vit D3, PRG
+- **Symptoms:** Weight gain, hair growth, skin darkening, hair loss, pimples
+- **Lifestyle Factors:** Fast food consumption, regular exercise
+- **Reproductive Health:** Cycle information, pregnancy history, follicle counts
+
+The dataset shows a **32.72% prevalence** of PCOS cases (177 out of 537 patients), making it suitable for binary classification and risk prediction modeling. Feature engineering and correlation analysis revealed key predictors including follicle counts, hormonal ratios, and lifestyle factors.
+
 ## API Endpoint
 
 
