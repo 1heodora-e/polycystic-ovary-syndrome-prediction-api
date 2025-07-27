@@ -54,7 +54,7 @@
 
 **YouTube Demo Link:** [PCOS Prediction System Demo](https://youtube.com/watch?v=YOUR_VIDEO_ID)
 
-*Note: Replace with your actual YouTube video link (max 5 minutes)*
+
 
 ## Mobile App Instructions
 
@@ -68,7 +68,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/pcos-prediction-system.git
+   git clone https://github.com/1heodora-e/polycystic-ovary-syndrome-prediction-api.git
    cd pcos-prediction-system
    ```
 
