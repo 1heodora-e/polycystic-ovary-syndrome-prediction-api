@@ -2,7 +2,7 @@
 
 ## Mission and Problem
 
-**Our mission is to democratize PCOS screening through accessible machine learning tools.** Polycystic Ovary Syndrome (PCOS) affects 1 in 10 women worldwide, often going undiagnosed due to complex symptoms and limited healthcare access. This project develops a machine learning model that analyzes health indicators and lifestyle factors to predict PCOS risk, providing both a RESTful API for healthcare applications and a mobile app for personal health monitoring to make early detection more accessible and reduce diagnostic delays.
+**My mission is to democratize PCOS screening through accessible machine learning tools.** Polycystic Ovary Syndrome (PCOS) affects 1 in 10 women worldwide, often going undiagnosed due to complex symptoms and limited healthcare access. This project develops a machine learning model that analyzes health indicators and lifestyle factors to predict PCOS risk, providing both a RESTful API for healthcare applications and a mobile app for personal health monitoring to make early detection more accessible and reduce diagnostic delays.
 
 ## API Endpoint
 
